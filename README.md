@@ -11,4 +11,4 @@ he will be killed. now he can't vote because he is dead now.
 
 by doing this at last all the enemies must die to win the game for good team.otherwise Evil team will win.
 
-play the game and best of luck that u will win.
+play the game and best of luck that you will win.
