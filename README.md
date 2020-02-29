@@ -1,4 +1,4 @@
-# my-first-project
+# wolf killer console based game
 Here I has developed an simple console based game named "Wolf Killer" in c++ programming language.
 
 Game instructions
